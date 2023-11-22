@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+}
+.cart-style{
+    background-color: black;
+    color:white;
+    float: right;
+}
+.cart-style button{
+    background-color: black;
+    color:white
+}
+.cart-style sup{
+    color:white;
+    background-color: rgb(15, 15, 15);
+}
+.btn{
+    background-color: azure;
+    color:black
+}
